@@ -1,7 +1,7 @@
 <!-- Encabezado con emojis y estilo limpio -->
 <div align="center">
   
-  <h1>👨‍💻 Dev Anónimo</h1>
+  
   <p>Apasionado por el código, las soluciones elegantes y los proyectos con propósito.</p>
 
   <img src="https://skillicons.dev/icons?i=python,js,react,django,opencv,git,linux" />
