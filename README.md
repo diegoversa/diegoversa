@@ -53,19 +53,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub  
 
-<div align="center">
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoversa&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoversa&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=diegoversa&theme=tokyonight)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack  
 
