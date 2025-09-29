@@ -7,6 +7,12 @@
 
 <img src="https://skillicons.dev/icons?i=python,js,react,django,opencv,git,linux" />
 
+---
+
+![GitHub followers](https://img.shields.io/github/followers/diegoversa?label=Followers&style=flat&logo=github) 
+![GitHub stars](https://img.shields.io/github/stars/diegoversa?affiliations=OWNER&style=flat&logo=github)  
+![Profile views](https://komarev.com/ghpvc/?username=diegoversa&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
 
 ---
@@ -21,9 +27,19 @@
 
 ## 🚧 Proyectos en construcción  
 
-- 🔥 **Detector de fuego** con visión por computadora (YOLOv5 + OpenCV)  
-- 🤖 **Bot OCR** para analizar imágenes de apuestas y subirlas a Google Sheets  
+### 🔬 IA & Visión por Computadora  
+- 🔥 **Detector de fuego** en entornos industriales (YOLOv5 + OpenCV)  
+- 🏭 **Seguridad laboral con visión artificial** para detectar riesgos en fábricas  
+- 🧱 **Detección de zonas húmedas en paredes** con OpenCV  
+
+### 🤖 Bots & Automatización  
+- 🧾 **Bot de Apuestas Deportivas** (OCR + IA + Google Sheets + Telegram)  
+- 💬 **Bot de reseñas** para Play Store & App Store con integración en Discord  
+
+### 🕸️ Aplicaciones Web & Software  
 - 🎮 **Tracker automático de puntos** en partidos de pádel con marcador sincronizado  
+- 🏠 **EasyStock** – App para control de stock en casa  
+- 🚗 **Gestor de concesionarios** en Django (vehículos, clientes y ventas)  
 
 ---
 
@@ -34,6 +50,20 @@
 > 🤖 Usa OCR + IA para entender diferentes formatos  
 > ☁️ Envía los datos a **Google Sheets** de forma automática  
 > 📱 Compatible con **bots de Telegram** para gestionarlo todo desde el móvil  
+
+---
+
+## 📊 Estadísticas de GitHub  
+
+<div align="center">
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoversa&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoversa&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=diegoversa&theme=tokyonight)
+
+</div>
 
 ---
 
